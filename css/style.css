@@ -11,6 +11,14 @@ body{
 
 }
 
+body{
+
+	border-radius: 				10px;
+	border-width:				10px;
+	padding:					12px;
+
+}
+
 h1{
 
     font-size: 					36px;
