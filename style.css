@@ -1,0 +1,83 @@
+body{
+
+	font-family:				'Roboto', sans-serif;
+
+}
+
+.mainPage{
+
+	margin:						0 auto;
+	width:						50%;
+
+}
+
+h1{
+
+    font-size: 					36px;
+
+}
+
+h2{
+
+	font-size:					32px;
+	line-height:				36px;
+
+}
+
+.omschrijving{
+
+	font-size:					24px;
+	line-height: 				32px;
+
+}
+
+.navbar{
+
+	border:						4px;
+	border-style: 				outset;
+	padding:					4px;
+	text-align:					center;
+	font-size:					25px;
+	background-color: 			#def6ed;
+
+}
+
+#navstyle{
+
+	text-decoration:			none;
+	color: 						grey;
+
+}
+
+p{
+
+	font-size:					20px;
+	line-height: 				26px;
+
+}
+
+.list1{
+
+	font-size:					20px;
+	line-height:				25px;
+
+}
+
+#gehaktbroodpic{
+
+	width:						500px;
+	height:						500px;
+
+}
+
+.tip{
+
+	border-radius: 				10px;
+	border-width:				10px;
+	background-color:			#def6ed;
+	padding:					12px;
+
+
+
+}
+
